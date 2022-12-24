@@ -64,11 +64,12 @@ h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
-    
+
     position: relative;
 }
 
-#cover-text, #cover-text h2 {
+#cover-text,
+#cover-text h2 {
     color: #fff;
 
 }
